@@ -50,6 +50,8 @@ public class AlumnoServiceImpl implements AlumnoService {
 		return repository.findByDniAndIdAlumnoNot(dni, idAlumno);
 	}
 
+
+
 	
 
 }
